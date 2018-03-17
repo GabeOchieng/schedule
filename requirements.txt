@@ -1,3 +1,2 @@
 meetup-api
 pandas
-pypandoc
